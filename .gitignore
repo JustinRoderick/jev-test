@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.schema
+!.env.example
+.data/
+.references/
+.output/
+dist/
+.tanstack/
+.vite/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
