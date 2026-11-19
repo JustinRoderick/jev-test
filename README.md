@@ -6,7 +6,7 @@ A local, single-user POC built with TanStack Start, React Query/server functions
 
 ## Run locally
 
-Requires Node 24.11+ and pnpm 12.5.1. Native DuckDB and SQLite packages need a supported platform.
+Requires Node 24.11+ (or 26+; Node 25 is not supported by Vite+) and pnpm 12.5.1. Native DuckDB and SQLite packages need a supported platform.
 
 ```sh
 pnpm install
